@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **lukasdemani/lukasdemani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>I love solving problems. That´s why I decided to became a Developer.
-I started my journey a few months and I´m enjoying a lot.
+<p>I love solving problems. That's why I have decided become a Developer.
+I started my journey a few months and I'm enjoying a lot.
 
 HTML - CSS - JavaScript</p>
