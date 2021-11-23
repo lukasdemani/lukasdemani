@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <p>I love solving problems. That's why I have decided become a Developer.
-I started my journey a few months and I'm enjoying a lot.
+I started my journey a few months ago and I'm enjoying a lot.
 
 HTML - CSS - JavaScript</p>
