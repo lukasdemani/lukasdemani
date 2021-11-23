@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>I love solving problems. That´s why I decided to became a Developer.
+I started my journey a few months and I´m enjoying a lot.
+
+HTML - CSS - JavaScript</p>
