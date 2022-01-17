@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>I love solving problems. That's why I have decided become a Developer.
-I started my journey a few months ago and I'm enjoying a lot.
+<p>I love solving problems. That's why I have decided to become a Developer.
+I've started my journey a few months ago and I'm enjoying a lot.
 
 React - JavaScript - HTML - CSS</p>
