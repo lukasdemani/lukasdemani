@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 I've started my journey a few months ago and I'm enjoying a lot.
 
 React - JavaScript - HTML - CSS</p>
+
+https://github-readme-stats.vercel.app/api?username={lukasdemani}
