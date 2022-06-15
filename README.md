@@ -20,4 +20,4 @@ I've started my journey a few months ago and I'm enjoying a lot.
 
 React - JavaScript - HTML - CSS</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username={lukasdemani}"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=lukasdemani"></img>
