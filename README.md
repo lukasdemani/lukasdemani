@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1>Olá! <img src="https://raw.githubusercontent.com/sciencepal/sciencepal/master/assets/Hi.gif" width="30"></img></h1>
 
-<p>Finally you find this profile! I'm glad you are here :smile:
+<p>Finally you found this profile! I'm glad you are here :smile:
   
   I'm a Full-Stack Developer working to improve my skills constantly. I'm used to coding in JavaScript, using ReactJS and Node JS. I know TypeScript as well.</p>
 
