@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Olá!<img src="https://raw.githubusercontent.com/sciencepal/sciencepal/master/assets/Hi.gif" width="10"></img></h1>
+<h1>Olá!<img src="https://raw.githubusercontent.com/sciencepal/sciencepal/master/assets/Hi.gif" width="50"></img></h1>
 
 <p>I love solving problems. That's why I have decided to become a Developer.
 I've started my journey a few months ago and I'm enjoying a lot.
