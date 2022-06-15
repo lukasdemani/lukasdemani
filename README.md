@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p>Finally you found this profile! I'm glad you are here :smile:
   
-  I'm a Full-Stack Developer working to improve my skills constantly. I'm used to coding in JavaScript, using ReactJS and Node JS. I know TypeScript as well.</p>
+  I'm a Full-Stack Developer working to improve my skills constantly. I'm used to coding in JavaScript, using ReactJS and Node JS, and in TypeScript as well.</p>
 
 <h1>Technologies</h1>
 
