@@ -17,16 +17,19 @@ Here are some ideas to get you started:
 
 <h1>Olá! <img src="https://raw.githubusercontent.com/sciencepal/sciencepal/master/assets/Hi.gif" width="30"></img></h1>
 
-<p>I love solving problems. That's why I have decided to become a Developer.
-I've started my journey a few months ago and I'm enjoying a lot.
+<p>I'm Full-Stack Developer working to improve my skills constatly. I'm used to code in JavaScript, using ReactJS and Node JS. I know TypeScript as well.</p>
 
-React - JavaScript - HTML - CSS</p>
+<h1>Technologies</h1>
 
-<img src="https://github-readme-stats.vercel.app/api?username=lukasdemani"></img>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
 "></img>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></img>
+
+<img src="https://github-readme-stats.vercel.app/api?username=lukasdemani"></img>
+
+
+
 
 
 
