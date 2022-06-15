@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1>Olá!</h1>
+
 <p>I love solving problems. That's why I have decided to become a Developer.
 I've started my journey a few months ago and I'm enjoying a lot.
 
