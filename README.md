@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></img>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></img>
-<img src="https://1757140519.rsc.cdn77.org/blog/wp-content/uploads/sites/6/2020/08/27_docker-vector-logo.png"></img>
+<img src="https://1757140519.rsc.cdn77.org/blog/wp-content/uploads/sites/6/2020/08/27_docker-vector-logo.png" width="20"></img>
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></img>
 
 
